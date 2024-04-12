@@ -1,3 +1,4 @@
+// detector de numeros en palabras
 #include <iostream>
 using namespace std;
 
